@@ -1,0 +1,8 @@
+#BECAUSE 7 CANNOT BE DEVIDED BY 0
+5 % 2
+9 % 5
+15 % 12
+12 % 15
+6 % 6
+0 % 7
+
