@@ -1,3 +1,12 @@
-word1 = "all"
-word2 = "work"
-print(word1 +  " " + word2)
+A = "All"
+B = "Work"
+C = "no"
+D = "play"
+E = "makes"
+F = "jack"
+G = "a"
+H = "dull"
+Z = "boy"
+print (A,B,C,D,E,F,G,H,Z)
+
+
