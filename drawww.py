@@ -1,0 +1,16 @@
+import turtle
+wn = turtle.Turtle()
+wn.color("lightgreen")
+clock = turtle.Turtle()
+clock.shape("turtle")
+clock.color("hotpink")
+for i in range(12):
+    clock.penup()
+    clock.fd(100)
+    clock.pendown()
+    clock.fd(10)
+    clock.penup()
+    clock.fd(10)
+    clock.stamp()
+    clock.backward(110)
+    clock.left(30)
