@@ -1,5 +1,6 @@
 import turtle
 wn = turtle.Screen()
+allie = turtle.Turtle()
 
 sides = int(input("hwo many sides should I draw? "))
 for i in range(sides):
