@@ -7,6 +7,7 @@ def make_pattern(turt,size):
     for i in range(num):
         
         for i in range(4):
+            turt.forward(size)
             turt.lt(90)
         turt.lf(angle)
         
